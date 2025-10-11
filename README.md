@@ -164,8 +164,8 @@ Please fork the repository and submit a pull request.
 ## 💬 Contact
 
 👤 **Developer:** Ahmed Helal  
-📧 **Email:** your-email@example.com  
-🌐 **GitHub:** [github.com/your-username](https://github.com/your-username)
+📧 **Email:** am9514994@gmail.com  
+🌐 **GitHub:** [https://github.com/AhmedHelal909](https://github.com/AhmedHelal909)
 
 ---
 
